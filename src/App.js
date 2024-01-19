@@ -9,7 +9,7 @@ function App() {
 <div className='container'>
   <img src="logo192.png" alt="img1"></img>
   <div className='row'>
-    <Card name="world"></Card>
+    <Card name="hello"></Card>
     <Card name="earth"></Card>
     <Card name="Moon"></Card>
     <Card name="Pluto"></Card>
